@@ -9,3 +9,4 @@
 ## Endpoints
 - GET /notes
 - POST /notes (body: {"text": "..."})
+- POST /notes (body: {"text": "...", "title": "..."})
